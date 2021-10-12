@@ -66,21 +66,28 @@ nav {
     height: 716px;
     box-shadow: 15px 13px 15px inset #000;
     background: url(../img/1.jpg) center/cover no-repeat;
-    color: rgb(255,255,255);
-    font-size: 35px;
-    line-height: 108px;
-    padding-left: 896px;
-    float: left;
 }
-.menu1 {
-    float: left;
+.menu1 h1{
+    font-size: 35px;
+    color: #ffffff;
+    line-height: 150px;
+    padding-left: 900px;
+}
+.menu1 p{ //вопрос 1 как правильно подключить второю часть тест рыбы?
+    font-size: 15px;
+    color: #ffffff;
+    line-height: 448px;
     padding-left: 596px;
 }
-.menu1 p{
-    color: rgb(255,255,255);
-    font-size: 35px;
-    line-height: 1px;
-    padding-left: 596px;
-    float: left;
+.menu1 input{
+    height: 34px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    background: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 0px 11px 10px 32px;
+    margin: 37px 877px 97px 896px
 }
 
